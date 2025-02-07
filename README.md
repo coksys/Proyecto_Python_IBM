@@ -1,0 +1,1 @@
+This code is the final exercice of a Python’s initiation trainee. It is necessary to have Python installed in the system to execute the file (FinCursoIBM.py). The data introduced during the session disappears of the system when program is closed.
